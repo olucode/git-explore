@@ -1,1 +1,3 @@
 Hello World, this is a git lesson
+
+I am learning how to make git commits.
